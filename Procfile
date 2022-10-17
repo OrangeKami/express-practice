@@ -1,1 +1,1 @@
-web: npm run start-prodcution
+web: npm run start-production
